@@ -7,22 +7,22 @@
         This is the official Aptos version of the Aave V3 Protocol.
     </p>
     <p align="center">
-        <a href="https://github.com/aave/aptos-v3/actions/workflows/unit_tests.yml" style="text-decoration: none;">
-            <img src="https://github.com/aave/aptos-v3/actions/workflows/unit_tests.yml/badge.svg?branch=feat/evgeni/cl-coverage" alt="CI">
+        <a href="https://github.com/aave/aptos-aave-v3/actions/workflows/unit_tests.yml" style="text-decoration: none;">
+            <img src="https://github.com/aave/aptos-aave-v3/actions/workflows/unit_tests.yml/badge.svg?branch=feat/evgeni/cl-coverage" alt="CI">
         </a>
-        <a href="https://codecov.io/gh/aave/aptos-v3" style="text-decoration: none;">
-          <img src="https://codecov.io/gh/aave/aptos-v3/branch/feat%2Fevgeni%2Fcl-coverage/graph/badge.svg?token=GzsXGvIv0r" alt="Coverage"/>
+        <a href="https://codecov.io/gh/aave/aptos-aave-v3" style="text-decoration: none;">
+          <img src="https://codecov.io/gh/aave/aptos-aave-v3/branch/feat%2Fevgeni%2Fcl-coverage/graph/badge.svg?token=GzsXGvIv0r" alt="Coverage"/>
         </a>
-        <a href="https://github.com/aave/aptos-v3/blob/feat/evgeni/cl-coverage/LICENSE" style="text-decoration: none;">
+        <a href="https://github.com/aave/aptos-aave-v3/blob/feat/evgeni/cl-coverage/LICENSE" style="text-decoration: none;">
           <img src="https://img.shields.io/badge/license-MIT-007EC7.svg" alt="License"/>
         </a>
     </p>
     <p align="center">
         <a href="https://aave.com/docs">📚 Documentation</a>
         <span>&nbsp;</span>
-        <a href="https://github.com/aave/aptos-v3/issues/new?labels=bug&template=bug-report---.md">🐛 Report Bug</a>
+        <a href="https://github.com/aave/aptos-aave-v3/issues/new?labels=bug&template=bug-report---.md">🐛 Report Bug</a>
         <span>&nbsp;</span>
-        <a href="https://github.com/aave/aptos-v3/issues/new?labels=enhancement&template=feature-request---.md">✨ Request Feature</a>
+        <a href="https://github.com/aave/aptos-aave-v3/issues/new?labels=enhancement&template=feature-request---.md">✨ Request Feature</a>
     </p>
 </div>
 
@@ -86,7 +86,7 @@ flowchart TD
 ### 1. 🧩 Clone the Repository
 
 ```bash
-git clone https://github.com/aave/aptos-v3.git && cd aptos-v3
+git clone https://github.com/aave/aptos-aave-v3.git && cd aptos-aave-v3
 ```
 
 ---
